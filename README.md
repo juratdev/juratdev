@@ -12,6 +12,6 @@ I'm Jurat from Uzbekistan, and I'm a frontend developer. I have been programming
 * 💚 VUEJS
 
 ## Social Media:
-* Instagram: @juratrakhimbaev
-* Telegram: @juratrakhimbaev
+* Instagram: (https://www.instagram.com/@juratrakhimbaev/)
+* Telegram: (https://t.me/juratrakhimbaev)
 
