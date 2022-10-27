@@ -6,7 +6,7 @@ I'm Jurat from Uzbekistan, and I'm a frontend developer. I have been programming
 
 - 👨🏻‍💻 I'm currently learning Javascript better.
 
-## Skills: 
+Skills: 
 * 💻 HTML / CSS (Scss/Sass, Bootstrap, Tailwindcss)
 * 👨🏻‍💻 JAVASCRIPT
 * 💚 VUEJS
