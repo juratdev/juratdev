@@ -13,3 +13,4 @@ I'm Jurat from Uzbekistan, and I'm a frontend developer. I have been programming
 
 ## You can find me at these addresses:
 * Instagram: [@instagram](https://www.instagram.com/juratrakhimbaev/)
+* Telegram: [@telegram](https://t.me/juratdev/)
