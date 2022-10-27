@@ -6,11 +6,11 @@ I'm Jurat from Uzbekistan, and I'm a frontend developer. I have been programming
 
 - 👨🏻‍💻 I'm currently learning Javascript better.
 #
-###The technologies I am currently using: 
+### The technologies I am currently using: 
 * 💻 HTML / CSS (Scss/Sass, Bootstrap, Tailwindcss)
 * 👨🏻‍💻 JAVASCRIPT
 * 💚 VUEJS
 ##
-###You can find me at these addresses:
+### You can find me at these addresses:
 * Instagram: [@juratrakhimbaev](https://www.instagram.com/juratrakhimbaev/)
 * Telegram: [@juratdev](https://t.me/juratdev/)
