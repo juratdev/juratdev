@@ -12,7 +12,4 @@ I'm Jurat from Uzbekistan, and I'm a frontend developer. I have been programming
 * 💚 VUEJS
 
 ## You can find me at these addresses:
-*<p>
-  INSTAGRAM:
-<a href="https://www.instagram.com/juratrakhimbaev/"></a> 
-</p>
+* <a href="https://www.instagram.com/juratrakhimbaev/">INSTAGRAM:</a> 
