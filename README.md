@@ -10,7 +10,7 @@ Skills:
 * 💻 HTML / CSS (Scss/Sass, Bootstrap, Tailwindcss)
 * 👨🏻‍💻 JAVASCRIPT
 * 💚 VUEJS
-
-## You can find me at these addresses:
+##
+You can find me at these addresses:
 * Instagram: [@juratrakhimbaev](https://www.instagram.com/juratrakhimbaev/)
 * Telegram: [@juratdev](https://t.me/juratdev/)
