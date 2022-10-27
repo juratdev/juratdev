@@ -10,3 +10,7 @@ I'm Jurat from Uzbekistan, and I'm a frontend developer. I have been programming
 * 💻 HTML / CSS (Scss/Sass, Bootstrap, Tailwindcss)
 * 👨🏻‍💻 JAVASCRIPT
 * 💚 VUEJS
+
+## Contact: 
+* <a href="https://www.instagram.com/juratrakhimbaev/">INSTAGRAM</a>
+* 
