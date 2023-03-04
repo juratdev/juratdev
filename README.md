@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**juratdev/juratdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Glad to see you here! 😊
 
-Here are some ideas to get you started:
+I'm Jurat from Uzbekistan, and I'm a frontend developer. I have been programming since I was young through my interest in computers. I enjoy programming in general.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏻‍💻 I'm currently learning Javascript and Vuejs better.
+##
+### The technologies I am currently using: 
+* 💻 HTML / CSS (Scss/Sass, Bootstrap, Tailwindcss)
+* 👨🏻‍💻 JAVASCRIPT
+* 💚 VUEJS
+##
+### You can find me at these addresses:
+* Phone: +998(91) 429-7478
+* Linkedin: [@juratdev](https://www.linkedin.com/in/juratdev/)
+* Telegram: [@juratdev](https://t.me/juratdev/)
+* Instagram: [@juratdev](https://www.instagram.com/juratdev/)
