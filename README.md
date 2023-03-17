@@ -15,6 +15,3 @@ I'm Jurat from Uzbekistan, and I'm a frontend developer. I have been programming
 * Phone: +998(91) 429-7478
 * Linkedin: [@juratdev](https://www.linkedin.com/in/juratdev/)
 * Telegram: [@juratdev](https://t.me/juratdev/)
- ##
- ![Jurat's Profile views](https://komarev.com/ghpvc/?username=juratdev&color=lightgrey)
-<h1></h1>
