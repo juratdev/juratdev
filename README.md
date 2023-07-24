@@ -7,7 +7,7 @@ I'm Jurat from Uzbekistan, and I'm a frontend developer. I have been programming
 - 👨🏻‍💻 I'm currently learning Javascript and Vuejs in depth.
 ##
 ### The technologies I am currently using: 
-* 💻 HTML / CSS (Scss/Sass, Bootstrap, Tailwindcss)
+* 💻 HTML / CSS (Sass, Bootstrap, Tailwindcss)
 * 👨🏻‍💻 JAVASCRIPT
 * 💚 VUEJS
 ##
