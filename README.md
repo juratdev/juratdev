@@ -14,4 +14,4 @@ I'm Jurat from Uzbekistan, and I'm a frontend developer. I have been programming
 ### You can find me at these addresses:
 * Phone: +998(91) 429-7478
 * Linkedin: [@juratdev](https://www.linkedin.com/in/juratdev/)
-* Telegram: [@juratdev](https://t.me/juratdev/)
+* Telegram: [@juratbek](https://t.me/juratbek/)
